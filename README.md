@@ -56,7 +56,7 @@ To start exploring and contributing to the LAMA Podcast Platform, follow these s
 
 1. **Clone the Repository:**
    
-   - git clone https://github.com/your-username/zura_ventures_coding_assignment.git](https://github.com/AniketShinde09/Skailama-Assignment.git
+   - git clone https://github.com/AniketShinde09/Skailama-Assignment.git
    
    - Navigate to the Frontend Directory:
        - cd Skailama-Assignment ./frontend
